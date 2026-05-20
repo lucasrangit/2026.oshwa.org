@@ -9,7 +9,7 @@ OSHWA is dedicated to providing a harassment-free online and in-person community
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please email the OSHWA [Executive Director][oshwa-team], or [Community Coordinator][oshwa-team] immediately. If your concerns pertain to the Open Hardware Summit, you may email the Summit Chair at [summit@oshwa.org][email-summit]. A team member or board member will discuss how to support you, and plan what actions need to be taken by OSHWA in response. People who may be involved with resolving the issues are as follows: [Executive Director][oshwa-team] of OSHWA, [Community Coordinator][oshwa-team] of OSHWA, a conduct panel from the OSHWA board, and if necessary, the [OSHWA board][oshwa-board] (the whole board may be presented with an anonymous report). You only need to email one person. We will respect confidentiality requests including who else sees your email, for the purpose of protecting victims to the best of our ability.
 
-[oshwa-team]: https://www.oshwa.org/about/our-team/
+[oshwa-team]: https://oshwa.org/team/
 [oshwa-board]: https://www.oshwa.org/about/board-members/
 [email-summit]: mailto:summit@oshwa.org
 [email-info]: mailto:info@oshwa.org
